@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+untrackfiles
 # Distribution / packaging
 .Python
 build/
