@@ -236,3 +236,10 @@ scripts/stress-test/reports/
 # settings
 *.local.json
 *.local.md
+
+
+
+
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
